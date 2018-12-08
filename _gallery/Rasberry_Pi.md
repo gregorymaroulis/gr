@@ -1,7 +1,8 @@
 ---
 author: Gregory Maroulis
 image_url: /images/Rasberry_pi_card.jpg
-caption: Πλατφόρμα ανάπτυξης τοσο στο υλικό κομμάτι που αποτελείται από έναν βασικό controler με πολλές δυνατότητες διασύνδεσης components.  title: Rasberry Pi
+caption: Πλατφόρμα ανάπτυξης τοσο στο υλικό κομμάτι που αποτελείται από έναν βασικό controler με πολλές δυνατότητες διασύνδεσης components.  
+title: Rasberry Pi
 categories:
   - tools
 ---
