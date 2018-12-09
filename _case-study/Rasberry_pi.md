@@ -12,3 +12,5 @@ gallery:
   - image_url: /images/Rasberry_Pi_3.jpg
     caption: "Υπάρχουν πάρα πολλά Raberries τα οποία εξυπηρετούν διαφορετικές ανάγκες και υλοποιήσεις."
 ---
+
+{% include_relative cs_Rasberry_PI.md %}
