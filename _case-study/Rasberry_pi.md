@@ -9,6 +9,6 @@ categories:
 tags:
   - Rasberry PI
 gallery:
-  - image_url: /images/Pasberry_Pi_3.jpg
+  - image_url: /images/Rasberry_Pi_3.jpg
     caption: "Υπάρχουν πάρα πολλά Raberries τα οποία εξυπηρετούν διαφορετικές ανάγκες και υλοποιήσεις."
 ---
